@@ -96,7 +96,7 @@ var words = Set<String>()
 var numbers = Set<Int>()
 
 var scores = Dictionary<String, Int>()
-var results = Array<Int>()
+var results1 = Array<Int>()
 
 /*:
  > ### 8. Enumerations
@@ -142,7 +142,7 @@ enum Planet: Int {
     case mars
 }
 
-let earth = Planet(rawValue: 2)
+var earth = Planet(rawValue: 2)
 
 enum Planet1: Int {
     case mercury = 1
@@ -151,3 +151,4 @@ enum Planet1: Int {
     case mars
 }
 
+var earth1 = Planet1(rawValue: 3)
