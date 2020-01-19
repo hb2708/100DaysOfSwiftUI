@@ -22,6 +22,7 @@ My Progress while trying to complete 100 Days Of SwiftUI Challenge by Paul Hudso
 
 8. [Simple types: Summary](https://www.hackingwithswift.com/sixty/1/8/simple-types-summary "Simple types: Summary")
 */
+
 /*:
  > ### 1. Variables
 */
@@ -29,11 +30,13 @@ import UIKit
 
 var str = "Hello, playground"
 str = "Goodbye"
+
 /*:
  > ### 2. Strings and integers
 */
 var age = 38
 var population = 8_000_000
+
 /*:
  > ### 3. Multi-line strings
 */
@@ -48,20 +51,24 @@ This goes \
 over multiple \
 line
 """
+
 /*:
  > ### 4. Doubles and booleans
 */
 var pi = 3.141
 var awesome = true
+
 /*:
  > ### 5. String interpolation
 */
 var score = 85
 var strScore = "Your score was \(score)"
 var results = "The test results are here: \(strScore)"
+
 /*:
  > ### 6. Constants
 */
+
 let taylor = "swift"
 /*:
  > ### 7. Type annotations
