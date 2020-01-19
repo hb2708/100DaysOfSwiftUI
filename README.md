@@ -11,7 +11,7 @@ My Progress while trying to complete 100 Days Of SwiftUI Challenge by Paul Hudso
 The first 12 days provide a gentle warm up for your SwiftUI learning as we cover all the fundamentals of the Swift
 programming language. You’ll watch about a selection of one-minute videos every day, and complete short quizzes about each of those videos.
 
-- **[Day 01](../blob/master/Day%20001)**
+- **[Day 01](../master/Day%20001)**
   – variables, simple data types, and string interpolation
 
 - **[Day 02](https://www.hackingwithswift.com/100/swiftui/2 "Day 02")**
