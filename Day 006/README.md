@@ -17,3 +17,13 @@ My Progress while trying to complete 100 Days Of SwiftUI Challenge by Paul Hudso
 6. [Using closures as parameters when they accept parameters](https://www.hackingwithswift.com/sixty/6/6/using-closures-as-parameters-when-they-accept-parameters "Using closures as parameters when they accept parameters")
 
 7. [Using closures as parameters when they return values](https://www.hackingwithswift.com/sixty/6/7/using-closures-as-parameters-when-they-return-values "Using closures as parameters when they return values")
+
+8. [Shorthand parameter names](https://www.hackingwithswift.com/sixty/6/8/shorthand-parameter-names "Shorthand parameter names")
+
+9. [Closures with multiple parameters](https://www.hackingwithswift.com/sixty/6/9/closures-with-multiple-parameters "Closures with multiple parameters")
+
+10. [Returning closures from functions](https://www.hackingwithswift.com/sixty/6/10/returning-closures-from-functions "Returning closures from functions")
+
+11. [Capturing values](https://www.hackingwithswift.com/sixty/6/11/capturing-values "Capturing values")
+
+12. [Closures summary](https://www.hackingwithswift.com/sixty/6/12/closures-summary "Closures summary")
