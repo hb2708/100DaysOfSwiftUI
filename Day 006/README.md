@@ -15,3 +15,5 @@ My Progress while trying to complete 100 Days Of SwiftUI Challenge by Paul Hudso
 5. [Trailing closure syntax](https://www.hackingwithswift.com/sixty/6/5/trailing-closure-syntax "Trailing closure syntax")
 
 6. [Using closures as parameters when they accept parameters](https://www.hackingwithswift.com/sixty/6/6/using-closures-as-parameters-when-they-accept-parameters "Using closures as parameters when they accept parameters")
+
+7. [Using closures as parameters when they return values](https://www.hackingwithswift.com/sixty/6/7/using-closures-as-parameters-when-they-return-values "Using closures as parameters when they return values")
