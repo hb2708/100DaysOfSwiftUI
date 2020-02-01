@@ -10,9 +10,9 @@ My Progress while trying to complete 100 Days Of SwiftUI Challenge by Paul Hudso
 
 3. [Property observers](https://www.hackingwithswift.com/sixty/7/3/property-observers "Property observers")
 
-4. [Property observers methods](https://www.hackingwithswift.com/sixty/7/4/methods "Property observers methods")
+4. [Methods](https://www.hackingwithswift.com/sixty/7/4/methods "Methods")
 
-5. [Returning closures from functions](https://www.hackingwithswift.com/sixty/7/5/mutating-methods "Returning closures from functions")
+5. [Mutating methods](https://www.hackingwithswift.com/sixty/7/5/mutating-methods "Mutating methods")
 
 6. [Properties and methods of strings](https://www.hackingwithswift.com/sixty/7/6/properties-and-methods-of-strings "Properties and methods of strings")
 
